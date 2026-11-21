@@ -1,0 +1,5 @@
+# The real database login must NEVER go to GitHub
+config/database.php
+test.php
+lab.php
+*.log
